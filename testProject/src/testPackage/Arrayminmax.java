@@ -5,7 +5,8 @@ public class Arrayminmax {
 	
 		public static void main(String[] args) 
 		{
-			int a[] = new int[] { 23, 34, 13, 64, 72, 90, 10, 15, 9, 27 };
+			
+			int a[] = new int[] { 28, 34, 13, 64, 72, 90, 10, 15, 9, 27 };
 
 			int min = a[0]; //  assume first elements as smallest number
 			int max = a[0]; //  assume first elements as largest number
